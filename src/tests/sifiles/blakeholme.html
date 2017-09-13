@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML><HEAD><TITLE>Blake Holme Badge Event 2000</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+
+<BODY onresize=resize() leftMargin=0 topMargin=0 scroll=no onload="resize()" marginheight="0" marginwidth="0">
+
+<SCRIPT language=JavaScript>
+   function resize() {
+    var w_newWidth,w_newHeight;
+    var w_maxWidth=1600, w_maxHeight=1200;
+    if (navigator.appName.indexOf("Microsoft") != -1)
+    {
+     w_newWidth=document.body.clientWidth;
+     w_newHeight=document.body.clientHeight;
+    }else{
+     var netscapeScrollWidth=15;
+     w_newWidth=window.innerWidth-netscapeScrollWidth;
+     w_newHeight=window.innerHeight-netscapeScrollWidth;
+    }
+    if (w_newWidth>w_maxWidth)
+     w_newWidth=w_maxWidth;
+    if (w_newHeight>w_maxHeight)
+     w_newHeight=w_maxHeight;
+    document.splitsbrowser.setSize(w_newWidth, w_newHeight);
+    window.scroll(0,0);
+   }
+</SCRIPT>
+
+<APPLET name=splitsbrowser code="SplitsBrowser.class" 
+        align=center width=1600 height=1200 ARCHIVE="splitsbrowser.jar">
+    <PARAM NAME="color1" value="77ddFF ">
+    <PARAM NAME="color2" value="c0c0c0">
+    <PARAM NAME="graphbackground" value="fafafa">
+    <PARAM NAME="background" value="0077dd">
+    <PARAM NAME="dataformat" VALUE="1">
+    <PARAM NAME="zipped" VALUE="true">
+    <PARAM NAME="inputdata" VALUE="BlakeHolme.zip">
+    A Java enabled browser is required to view this page&nbsp
+</APPLET> 
+
+</BODY>
+</HTML>

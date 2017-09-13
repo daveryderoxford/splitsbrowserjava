@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="splitsbrowser2" default="javadoc">
+    <target name="javadoc">
+        <javadoc destdir="C:\Development\splitsbrowser2\doc"
+            access="public" use="true" notree="false" nonavbar="false"
+            noindex="false" splitindex="true" author="true"
+            version="true" nodeprecatedlist="false" nodeprecated="false"
+            sourcefiles="src\HTMLutils.java,src\Result.java,src\Course.java,src\Sorter.java,src\Statistics.java,src\SICSVEventLoader.java,src\ISaveEvent.java,src\ICompare.java,src\SIEventLoader.java,src\Message.java,src\Time.java,src\About.java,src\Debug.java,src\ControlCollection.java,src\EventStatistics.java,src\AgeClass.java,src\Axis.java,src\OEvent.java,src\MercsEventLoader.java,src\SplashPanel.java,src\SortedAgeClasses.java,src\SplitsGraph.java,src\SplitsTable.java,src\CSVEventLoader.java,src\Splitsbrowser.java,src\SplitsbrowserBeanInfo.java,src\SelectedResults.java,src\IGraphStyle.java,src\EventLoader.java"
+            sourcepath="src"
+            classpath="bin;C:\Programs\eclipse\plugins\org.junit_3.7.0\junit.jar" doctitle="Splitabrowser"/>
+    </target>
+</project>

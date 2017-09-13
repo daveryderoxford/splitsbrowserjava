@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE ResultList SYSTEM "IOFdata.dtd">
+<ResultList status="snapshot"> 
+<IOFVersion version="2.0.3" /> 
+<EventId type="int" idManager="IOF">Noname Event</EventId>
+ <ClassResult>
+<ClassShortName>M21</ClassShortName>
+<PersonResult>
+ <PersonId></PersonId>
+<Result createDate="28/04/2003 22:56:32" modifyDate="28/04/2003 22:46:00">
+<Time timeFormat="H:MM:SS">1:00:00</Time>
+<ResultPosition>2</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1" ><ControlCode>1"</ControlCode>
+<Time timeFormat="H:MM:SS">0:00:01</Time>
+</SplitTime>
+</Result> 
+<PersonResult>
+ <PersonId></PersonId>
+<Result createDate="28/04/2003 22:56:32" modifyDate="28/04/2003 22:46:05">
+<Time timeFormat="H:MM:SS">23:09:59</Time>
+<ResultPosition>3</ResultPosition>
+<CompetitorStatus value="OK" />
+<SplitTime sequence="1" ><ControlCode>1"</ControlCode>
+<Time timeFormat="H:MM:SS">0:00:01</Time>
+</SplitTime>
+<SplitTime sequence="2" ><ControlCode>2"</ControlCode>
+<Time timeFormat="H:MM:SS">0:00:02</Time>
+</SplitTime>
+<SplitTime sequence="3" ><ControlCode>3"</ControlCode>
+<Time timeFormat="H:MM:SS">0:00:05</Time>
+</SplitTime>
+</SplitTimes></Result> 
+</Results>

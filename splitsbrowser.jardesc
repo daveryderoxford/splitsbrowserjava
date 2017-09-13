@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jardesc>
+    <jar path="C:/Development/splitsbrowser/splitsbrowser.jar"/>
+    <options overwrite="true" compress="true" exportErrors="false" exportWarnings="true" saveDescription="true" descriptionLocation="/splitsbrowser/splitsbrowser.jardesc" useSourceFolders="false" buildIfNeeded="true"/>
+    <manifest manifestVersion="1.0" usesManifest="true" reuseManifest="true" saveManifest="true" generateManifest="false" manifestLocation="/splitsbrowser/src/splitsbrowser.mf" mainClassHandleIdentifier="=splitsbrowser/src&lt;{Splitsbrowser.java[Splitsbrowser">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportOutputFolder="false" exportJavaFiles="false">
+        <javaElement handleIdentifier="=splitsbrowser/src&lt;org.splitsbrowser.util{Sorter.java"/>
+        <file path="/splitsbrowser/src/Messages_de.properties"/>
+        <javaElement handleIdentifier="=splitsbrowser/src&lt;org.splitsbrowser.util{ICompare.java"/>
+        <file path="/splitsbrowser/src/Icon.png"/>
+        <javaElement handleIdentifier="=splitsbrowser/src&lt;org.splitsbrowser.model.results{ControlCollection.java"/>
+        <javaElement handleIdentifier="=splitsbrowser/src&lt;org.splitsbrowser.model.results.io{SIEventLoader.java"/>
+        <javaElement handleIdentifier="=splitsbrowser/src&lt;org.splitsbrowser.applet{SplashPanel.java"/>
+        <javaElement handleIdentifier="=splitsbrowser/src&lt;"/>
+        <javaElement handleIdentifier="=splitsbrowser/src&lt;org.splitsbrowser.model"/>
+        <file path="/splitsbrowser/src/Messages_en.properties"/>
+        <javaElement handleIdentifier="=splitsbrowser/src&lt;org.splitsbrowser.model.results.io{EventLoader.java"/>
+        <javaElement handleIdentifier="=splitsbrowser/src&lt;org.splitsbrowser.model.results{AgeClass.java"/>
+        <javaElement handleIdentifier="=splitsbrowser/src&lt;org.splitsbrowser.model.results{EventResults.java"/>
+        <javaElement handleIdentifier="=splitsbrowser/src&lt;org.splitsbrowser.model.results{Course.java"/>
+        <file path="/splitsbrowser/src/BigIcon.png"/>
+        <javaElement handleIdentifier="=splitsbrowser/src&lt;org.splitsbrowser.applet{About.java"/>
+        <javaElement handleIdentifier="=splitsbrowser/src&lt;org.splitsbrowser.applet{SplitsGraph.java"/>
+        <file path="/splitsbrowser/src/smallIcon.png"/>
+        <javaElement handleIdentifier="=splitsbrowser/src&lt;org.splitsbrowser.model.results.io{SICSVEventLoader.java"/>
+        <javaElement handleIdentifier="=splitsbrowser/src&lt;org.splitsbrowser.model.results{Time.java"/>
+        <javaElement handleIdentifier="=splitsbrowser/src&lt;org.splitsbrowser.model.results{Result.java"/>
+        <javaElement handleIdentifier="=splitsbrowser/src&lt;org.splitsbrowser.model.results.io{CSVEventLoader.java"/>
+        <javaElement handleIdentifier="=splitsbrowser/src&lt;org.splitsbrowser.util{HTMLutils.java"/>
+        <javaElement handleIdentifier="=splitsbrowser/src&lt;org.splitsbrowser.model.results{SelectedResults.java"/>
+        <javaElement handleIdentifier="=splitsbrowser/src&lt;org.splitsbrowser.applet{SplitsTable.java"/>
+        <javaElement handleIdentifier="=splitsbrowser/src&lt;org.splitsbrowser.applet{Axis.java"/>
+        <javaElement handleIdentifier="=splitsbrowser/src&lt;org.splitsbrowser.applet{SortedAgeClasses.java"/>
+    </selectedElements>
+</jardesc>

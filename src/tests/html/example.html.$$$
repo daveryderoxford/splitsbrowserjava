@@ -1,0 +1,24 @@
+<HTML><HEAD><TITLE>Strensall Common District Event</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<BODY leftMargin=0 topMargin=0 scroll=no marginheight="0" marginwidth="0">
+
+<APPLET name=splitsbrowser code=Splitsbrowser.class align=center width=100% height=100% ARCHIVE=splitsbrowser.jar>
+	<PARAM NAME="src" VALUE=cc.csv>
+	<PARAM NAME="zipped" VALUE="1">
+	<PARAM NAME="dataformat"  VALUE=SICSV>
+	<PARAM NAME="bycourse" VALUE="0">
+
+	<PARAM NAME="color1" VALUE="CBF5FF">
+	<PARAM NAME="color2" VALUE="D8DCFF">
+	<PARAM NAME="graphbackground" VALUE="99CCFF">
+	<PARAM NAME="backgroundcolor" VALUE="99CCFF">
+    A Java enabled browser is required to view this page<br>
+	<a href="http://java.sun.com/getjava/installer.html">Get Java here</a>
+</APPLET>
+
+</SCRIPT>
+
+</BODY>
+</HTML>
+
+
